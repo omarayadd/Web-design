@@ -81,13 +81,14 @@ body{
     font-size: 60px;
     margin-bottom: 15px;
     line-height: 40px;
-    color: black;
+    color:#2a1768;
     font-family: 'Montserrat', sans-serif;
 }
 
 .first-p{
     color: white;
-    font-size: 20px;
+    font-size: 25px;
+    font-weight: 400;
 }
 
 .first-button{
@@ -96,6 +97,7 @@ body{
     font-size: 20px;
     border-radius: 10px;
     border: 1px;
+    color: #2a1768;
 }
 
 .first-button-A{
@@ -141,14 +143,14 @@ body{
 .second-title{
     font-size: 50px;
     padding-top: 100px;
-    color: white;
+    color:#2a1768;
     text-align: center;
 }
 
 .second-line{
     height: 6px;
     width: 60px;
-    background-color: #2a1768;
+    background-color: white;
     margin: auto;
     margin-top: -20;
 }
@@ -160,6 +162,7 @@ body{
     width: 30%;
     height: 250px;
     position: relative;
+    text-align: center;
 }
 
 .second-first::after {
@@ -189,6 +192,7 @@ body{
     margin-left: 5%;
     margin-top: 15%;
     position: relative;
+    text-align: center;
 }
 
 .second-second::after {
@@ -216,6 +220,7 @@ body{
     float: right;
     margin-top: 15%;
     position: relative;
+    text-align: center;
 }
 
 .second-third::after {
@@ -237,41 +242,35 @@ body{
 }
 
 .fas.fa-male.second{
-    margin-left: 47%;
     margin-top: 30px;
     font-size: 20px;
     color: white;
 }
 
 .fas.fa-hiking.second{
-    margin-left: 47%;
     margin-top: 30px;
     font-size: 20px;
     color: white;
 }
 
 .fas.fa-users.second{
-    margin-left: 47%;
     margin-top: 30px;
     font-size: 20px;
     color: white;
 }
 
 .second-h3{
-    text-align: center;
     color: white;
     font-size: 20px;
 }
 
 
 .second-p{
-    text-align: center;
     color: white;
     font-size: 20px;
 }
 
 .second-a{
-    margin-left: 40%;
     color: #c1a504;
     font-size: 20px;
 }
@@ -295,13 +294,13 @@ body{
     font-size: 50px;
     text-align: center;
     padding-top: 40px;
-    color: white;
+    color:#2a1768;
 }
 
 .third-line{
     height: 6px;
     width: 60px;
-    background-color: #2a1768;
+    background-color: white;
     margin: auto;
     margin-top: -40px;
 }
@@ -374,7 +373,7 @@ body{
 }
 
 .third-block-A{
-    background-color: aqua;
+    background-color: rgb(1, 80, 192);
 }
 
 .third-show-A{
@@ -459,14 +458,14 @@ body{
 .third-h3{
     text-align: center;
     padding-top: 40px;
-    color: black;
+    color: white;
     font-size: 25px;
     transition: top 1s;
 }
 
 .third-p{
     text-align: center;
-    color: Black;
+    color: white;
     font-size: 25px;
 }
 
@@ -513,13 +512,13 @@ body{
     font-size: 50px;
     text-align: center;
     padding-top: 40px;
-    color: rgb(245, 245, 245);
+    color:#2a1768;
 }
 
 .fourth-line{
     height: 6px;
     width: 60px;
-    background-color: #2a1768;
+    background-color: white;
     margin: auto;
     margin-top: -40px;
 }
@@ -790,25 +789,26 @@ body{
 .fifth-title{
     font-size: 50px;
     padding-top: 40px;
-    color: rgb(245, 245, 245);
+    color:#2a1768;
 }
 
 .fifth-line{
     height: 6px;
     width: 60px;
-    background-color: #2a1768;
+    background-color: white;
     margin-top: -40px;
 }
 
 .fifth-p{
-    font-size: 23px;
-    color: #2a1768;;
+    font-size: 28px;
+    font-weight: 500;
+    color: white;
 }
 
 .fifth-p1{
     display: inline-block;
-    font-size: 18px;
-    color: #2a1768;
+    font-size: 22px;
+    color: white;
 }
 
 
@@ -864,13 +864,13 @@ body{
 
 .sixth-B{
     float: left;
-    margin-left: 25%;
+    margin-left: 20%;
     margin-top: 130px;
 }
 
 .sixth-C{
     float: left;
-    margin-left: 25%;
+    margin-left: 20%;
     margin-top: 130px;
 }
 
@@ -882,39 +882,41 @@ body{
 .fas.fa-users.sixth{
     margin-left: 35%;
     font-size: 30px;
-    color: #83394b
+    color:white;
 }
 
 .fas.fa-trophy.sixth{
     margin-left: 35%;
     font-size: 30px;
-    color: #83394b
+    color: white;
 }
 
 .fas.fa-plane.sixth{
     margin-left: 40%;
     font-size: 30px;
-    color: #83394b
+    color: white;
 }
 
 .far.fa-calendar-check.sixth{
     margin-left: 40%;
     font-size: 30px;
-    color: #83394b
+    color: white;
 }
 
 .sixth-P{
     margin-top: 0px;
     text-align: center;
-    font-size: 25px;
-    color: #2a1768;
+    font-size: 26px;
+    font-weight: 600;
+    color: white;
 }
 
 .sixth-P1{
-    color:#2a1768;
+    color:white;
     margin-top: -20px;
     text-align: center;
     font-size: 20px;
+    font-weight: 500;
 }
 
 
@@ -938,6 +940,7 @@ body{
     position: relative;
     background-image: url(../images/i.jpg);
     background-size: cover;
+    color: white;
 }
 
 .seventh-A::after {
@@ -967,6 +970,7 @@ body{
     position: relative;
     background-image: url(../images/j.jpg);
     background-size: cover;
+    color: white;
 }
 
 .seventh-B::after {
@@ -995,6 +999,7 @@ body{
     position: relative;
     background-image: url(../images/k.jpg);
     background-size: cover;
+    color: white;
 }
 
 .seventh-C::after {
@@ -1025,7 +1030,9 @@ body{
     width: 100px;
     height: 100px;
     border: 2px solid #2a1768;
+    background-color: #e1b151;
     border-radius: 50%;
+    color:white
 }
 
 .seventh-p{
@@ -1043,7 +1050,8 @@ body{
 
 .seventh-p2{
     text-align: center;
-    font-size: 22px;
+    font-size: 25px;
+    font-weight: 600;
 }
 
 .seventh-button{
@@ -1103,10 +1111,14 @@ body{
 
 .eighth-text{
     float: left;
+    color: #2a1768;
 }
 
 .eighth-text-A{
     margin-top: 100px;
+    color: white;
+    font-size: 23px;
+    font-weight: 500;
 }
 
 .eighth-h3{
@@ -1131,6 +1143,7 @@ body{
     text-align: center;
     background-color: #2a1768;
     position: relative;
+    color: white;
 }
 
 .ninth-A::after {
@@ -1159,6 +1172,7 @@ body{
     text-align: center;
     background-color: #2a1768;
     position: relative;
+    color: white;
 }
 
 .ninth-B::after {
@@ -1187,6 +1201,7 @@ body{
     text-align: center;
     background-color: #2a1768;
     position: relative;
+    color: white;
 }
 
 .ninth-C::after {
@@ -1279,6 +1294,7 @@ body{
     margin-top: 20px;
     width: 30%;   
     position: relative; 
+    color: white;
 }
 
 .tenth-A::after {
@@ -1305,6 +1321,7 @@ body{
     margin-top: 20px;
     width: 30%;
     position: relative;
+    color: white;
 }
 
 .tenth-B::after {
@@ -1330,6 +1347,7 @@ body{
     width: 30%;
     margin-top: 20px;
     position: relative;
+    color: white;
 }
 
 .tenth-C::after {
@@ -1348,6 +1366,11 @@ body{
     opacity: 0.5;
     width: 100%;
     height: 100%;
+}
+
+.tenth-aa{
+    margin-top: -10;
+    color: white;
 }
 
 
